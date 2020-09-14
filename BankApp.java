@@ -1,14 +1,8 @@
-import java.awt.BorderLayout;
-import java.awt.GridLayout;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
+
+
 import java.util.Scanner;
 
-import javax.swing.BorderFactory;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JPanel;
+
 
 //This application will display a welcome message then five choices which the user can select to check balance, withdraw, deposit. etc
 
